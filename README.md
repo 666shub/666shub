@@ -1,6 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 <h1 align="center">привет, там шуб здесь</h1>
-<h3 align="left">An Enthusiastic CyberSecurity Person</h3>
+<h3 align="left">An Enthusiastic CyberSecurity Geek</h3>
+<h1></h1>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
 
 - 💬 Ask me about **Cyber Security Stuff like Brute forcing, VAPT, etc**
